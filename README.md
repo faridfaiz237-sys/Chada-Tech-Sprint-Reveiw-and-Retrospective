@@ -2,11 +2,11 @@
 
 ## Author: Faiz Farid | Southern New Hampshire University
 
-Project Summary
+**Project Summary**
 
 This repository holds my final deliverable for CS 250, the Sprint Review and Retrospective for the SNHU Travel Scrum-Agile pilot at ChadaTech. Across the course I worked through each Scrum role (Scrum Master, Product Owner, Tester, and Developer) while a niche vacation booking tool took shape, from user stories and test cases to a working Java slideshow. The retrospective pulls those experiences together and evaluates whether Scrum-Agile was the right approach.
 
-Contents
+**Contents**
 
 Sprint_Review_and_Retrospective.docx: the Sprint Review and Retrospective document
 Reflection
