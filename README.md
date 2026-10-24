@@ -1,6 +1,6 @@
-**Chada Tech - Sprint Review and Retrospective **
+# Chada Tech - Sprint Review and Retrospective
 
-Author: Faiz Farid | Southern New Hampshire University
+## Author: Faiz Farid | Southern New Hampshire University
 
 Project Summary
 
