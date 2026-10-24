@@ -7,9 +7,9 @@
 This repository holds my final deliverable for CS 250, the Sprint Review and Retrospective for the SNHU Travel Scrum-Agile pilot at ChadaTech. Across the course I worked through each Scrum role (Scrum Master, Product Owner, Tester, and Developer) while a niche vacation booking tool took shape, from user stories and test cases to a working Java slideshow. The retrospective pulls those experiences together and evaluates whether Scrum-Agile was the right approach.
 
 **Contents**
+* Sprint_Review_and_Retrospective.docx: the Sprint Review and Retrospective document
 
-Sprint_Review_and_Retrospective.docx: the Sprint Review and Retrospective document
-Reflection
+**Reflection**
 How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
 
 I start by listening to the people who will use the product. In the SNHU Travel project, a customer focus group told us they wanted personalized destination lists, price limits, and a choice of vacation type, and I turned that feedback into user stories written as "As a [user], I want [goal], so that [reason]." The "so that" part keeps the real user's need in front of the team, so we build what someone actually asked for instead of what we assume. Acceptance criteria then make each story testable, and sizing stories as small, medium, or large helped us decide what to build first. When a story was unclear, asking the Product Owner a specific question early worked far better than guessing.
